@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Montserrat', sans-serif;
+    background-color:rgb(108, 213, 213);
+}
+.idcard{
+width: 600px;
+margin-top: 10%;
+border-color:black ;
+left: 20%;
+position: relative;
+text-align: center;
+}
+.textobreve{
+ color: #0f0f94;   
+}
+header{
+    width: 100%;
+    height: 200px;
+}
+
+section li{
+    display:inline-block;
+    margin: 10px;
+}
+footer{
+    text-align: center;
+    color: darkblue;
+}
+
+
